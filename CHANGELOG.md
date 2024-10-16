@@ -1,3 +1,7 @@
+### 0.4.3
+
+* fix(macos): added auto-hiding of the toolbar in full-screen mode
+
 ### 0.4.2
 
 * [windows] Update window_manager_plugin.cpp for fix #439 issue #486
